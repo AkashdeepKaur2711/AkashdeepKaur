@@ -1,4 +1,4 @@
-<h1 align="center">Hi, ich bin Akashdeep </h1>
+<h1 align="center">Akashdeep Kaur </h1>
 
 <p align="center">
   <strong>B.Sc. Wirtschaftsinformatik | TH Köln</strong><br/>
