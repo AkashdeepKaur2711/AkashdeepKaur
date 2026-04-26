@@ -1,7 +1,7 @@
-<h1 align="center">Hi, ich bin Akashdeep 👋</h1>
+<h1 align="center">Hi, ich bin Akashdeep </h1>
 
 <p align="center">
-  <strong>Wirtschaftsinformatik Studentin @ TH Köln</strong><br/>
+  <strong>B.Sc. Wirtschaftsinformatik | TH Köln</strong><br/>
   Fokus auf Data Analytics · Business Intelligence · Finanzen
 </p>
 
