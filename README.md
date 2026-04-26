@@ -9,7 +9,7 @@
   <a href="mailto:akashdeepkaur2711@web.de">
     <img src="https://img.shields.io/badge/Email-akashdeepkaur2711%40web.de-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/TH%20Köln-4.%20Semester-004B87?style=flat"/>
+  <img src="https://img.shields.io/badge/TH%20Köln-6.%20Semester-004B87?style=flat"/>
   <img src="https://img.shields.io/badge/Werkstudentin-REWE%20Group-CC0000?style=flat"/>
 </p>
 
