@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Wirtschaftsinformatik Studentin @ TH Köln</strong><br/>
-  Fokus auf Business Intelligence · Softwareentwicklung · Datenbanken
+  Fokus auf Data Analytics · Business Intelligence · Finanzen
 </p>
 
 <p align="center">
